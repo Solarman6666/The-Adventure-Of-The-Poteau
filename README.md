@@ -12,7 +12,7 @@ _Aucun téléchargement requis !_
 ## ?? État du projet
 -  **Carte avec éléments de décor**
 -  **Développement du gameplay en cours**
--  **Ajout d’interactions, de quêtes et d’ennemis**
+-  **Ajout d’interactions et de quêtes.**
 
 ##  Télécharger et essayer en local
 Si vous souhaitez tester ou modifier le jeu, vous pouvez le cloner :  
